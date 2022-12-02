@@ -5,7 +5,7 @@ A simple, no-bullshit AMOLED theme that's nice on your eyes. Lights out baby!
 
 ![preview](https://raw.githubusercontent.com/LuckFire/amoled-cord/main/assets/readme/main-preview.png)
 
-## Installation
+##  Installation
 For **[Powercord](http://powercord.dev/)** or **[Vizality](https://vizality.com/)** installation, head over to your **Themes folder -> open a terminal of choice**, and paste / enter the following:
 ```
 git clone https://github.com/LuckFire/amoled-cord
